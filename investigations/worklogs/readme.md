@@ -11,7 +11,5 @@ Add files  with a name like:
 ```
 worklog_<yourname>_<ddmmyy>.md
 ```
-Test Entry 1
+Test Entry 
 ==========
-
-
